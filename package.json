@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/smustafa1993/environment-variables#readme",
   "dependencies": {
+    "dotenv": "^16.5.0",
     "express": "^5.1.0",
     "morgan": "^1.10.0"
   }
